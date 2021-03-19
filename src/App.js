@@ -13,7 +13,7 @@ const pauseSound = () => {
 const template = (
   <div className='App'>
     <header className='App-header'>
-      <h1>Welcome intrigued friends!</h1>
+      <h1>YNWA</h1>
     </header>
     <main>
       <img src='/images/lfc.jpeg' alt='LFC' />
